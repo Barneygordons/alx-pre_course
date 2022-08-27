@@ -1,0 +1,1 @@
+.gitignore - A rule used to never push ~ files where you want git to ignore intentionally and not track any recent changes or files to be ignored.
